@@ -19,11 +19,14 @@ The programs cover **basic and intermediate concepts**, making this repository u
    ```bash
    git clone https://github.com/your-username/java-programs.git
 2. Navigate to the directory
-   ```cd java-programs
+   ```bash
+   cd java-programs
 3. Compile the Java file
-   ```javac FileName.java
+   ```bash
+   javac FileName.java
 4. Run the program
-   ``` java FileName
+   ```bash
+   java FileName
 
 ---
 
